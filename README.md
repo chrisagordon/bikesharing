@@ -7,7 +7,7 @@ The task of this challenge was to create data visualization of the CitiBike ride
 
 -Please review the Tableau story in the following link:
 
-"https://public.tableau.com/app/profile/christopher.gordon/viz/ChallengeModule15_16801310134320/Story1?publish=yes")
+https://public.tableau.com/app/profile/christopher.gordon/viz/ChallengeModule15_16801310134320/Story1?publish=yes
 - Here is an overview image of the entire webpage
 ![This is an image](https://github.com/chrisagordon/UFO_sightings_with_Javascript/blob/main/Challenge/web/static/images/Webpage%20Overview.PNG)
 - Filtering can be done by typing a specific criteria into the filter data boxes, see this image with data filtered for 1.10.2010
