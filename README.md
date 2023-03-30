@@ -8,12 +8,11 @@ The task of this challenge was to create data visualization of the CitiBike ride
 -Please review the Tableau story in the following link:
 
 https://public.tableau.com/app/profile/christopher.gordon/viz/ChallengeModule15_16801310134320/Story1?publish=yes
-- Here is an overview image of the entire webpage
-![This is an image](https://github.com/chrisagordon/UFO_sightings_with_Javascript/blob/main/Challenge/web/static/images/Webpage%20Overview.PNG)
-- Filtering can be done by typing a specific criteria into the filter data boxes, see this image with data filtered for 1.10.2010
-![This is an image](https://github.com/chrisagordon/UFO_sightings_with_Javascript/blob/main/Challenge/web/static/images/Data%20Filtered%201.10.2010.PNG)
-- Filtering can also be done on multiple criteria at the same time. This image displays data that is for 1.10.2010 and was reported in the state of Massachussetts
-![This is an image](https://github.com/chrisagordon/UFO_sightings_with_Javascript/blob/main/Challenge/web/static/images/Data%20Filtered%20by%20Date%20and%20State.PNG)
+
+-Overall Time of Usage Per Ride
+This graphic shows the time peak of usage per ride is between 5-10 minutes, afterwards it tapers off and almost hits a flat line around 40 minutes. 
+-When are the Bikes Being Used the Most 
+--Bikes are being used 
 
 ## 3. SUMMARY
 
