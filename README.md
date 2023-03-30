@@ -9,10 +9,20 @@ The task of this challenge was to create data visualization of the CitiBike ride
 
 https://public.tableau.com/app/profile/christopher.gordon/viz/ChallengeModule15_16801310134320/Story1?publish=yes
 
-- Overall Time of Usage Per Ride
+- Overall Time of Usage Per Ride:
 This graphic shows the time peak of usage per ride is between 5-10 minutes, afterwards it tapers off and almost hits a flat line around 40 minutes. 
-- When are the Bikes Being Used the Most 
-Bikes are being used 
+- When are the Bikes Being Used the Most: 
+Bikes are mostly being used during work days in the commute rush hours 7-9 am and 5-7pm. On the weekends this is most concentrated during daytime hours.
+- Overall Gender Usage Breakdown:
+We see here that the majority by 2/3rds are male.
+- Time Usage by Gender:
+None of the genders use the bikes longer than the others
+- Differences in When Bikes are used by Gender
+Weekly usage patterns are same regardless of gender
+- Subscriber Breakdown and Daily Usage
+We see here that Male users are more strongly subscribers than women and they tend to use more consistently. Non-subscriber customer users are the same across all the genders.
+- Number of Rides per bike
+This shows that there is a wide variety in the usage of each individual price and the cost of maintenance should be considered when evaluating a proposal for this adaptation into a city.
 
 ## 3. SUMMARY
 
