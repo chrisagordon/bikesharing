@@ -20,13 +20,13 @@ None of the genders use the bikes longer than the others
 - Differences in When Bikes are used by Gender
 Weekly usage patterns are same regardless of gender
 - Subscriber Breakdown and Daily Usage
-We see here that Male users are more strongly subscribers than women and they tend to use more consistently. Non-subscriber customer users are the same across all the genders.
+We see here that Male users are more strongly subscribers than women and they tend to use more consistently. Non-subscriber customer users are the same across all the genders but it is a much smaller user base. NYC residents use the bikes at a much higher rate than tourists.
 - Number of Rides per bike
 This shows that there is a wide variety in the usage of each individual price and the cost of maintenance should be considered when evaluating a proposal for this adaptation into a city.
 
 ## 3. SUMMARY
 
-- One major drawback to the design is that when you select a date, city, etc. you do not know if it will match with any of the data in the table. It is unknown to the user if what input will return a filtered output.
-- Additional Recommendations
-  1) Add dropdowns to each of the categories to help show what dates, cities, etc. are available to search based on the data provided
-  2) Create a button to clear filters instead of having to delete the data in the box manually or refresh the page
+- Looking through the NYC Citibike data there are strong weekly patterns in usage and it is driven by a 2/3rds male majority of users. If the city of Des Moines belives that the male population would be eager to adopt this into their weekly transportation then it would be worth further investigating and cost analysis.
+- Additional Visualization Recommendations
+  1) Average weekly revenue per subscriber and gender
+  2) Average length of trip per bike to see if the number of trips taken is consistent with the distance traveled
