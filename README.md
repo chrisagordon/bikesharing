@@ -9,10 +9,10 @@ The task of this challenge was to create data visualization of the CitiBike ride
 
 https://public.tableau.com/app/profile/christopher.gordon/viz/ChallengeModule15_16801310134320/Story1?publish=yes
 
--Overall Time of Usage Per Ride
+- Overall Time of Usage Per Ride
 This graphic shows the time peak of usage per ride is between 5-10 minutes, afterwards it tapers off and almost hits a flat line around 40 minutes. 
--When are the Bikes Being Used the Most 
---Bikes are being used 
+- When are the Bikes Being Used the Most 
+Bikes are being used 
 
 ## 3. SUMMARY
 
