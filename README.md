@@ -11,10 +11,13 @@ https://public.tableau.com/app/profile/christopher.gordon/viz/NYCCitibikePresent
 
 - Overall Time of Usage Per Ride:
 This graphic shows the time peak of usage per ride is between 5-10 minutes, afterwards it tapers off and almost hits a flat line around 40 minutes. 
+![This is an image](https://github.com/chrisagordon/bikesharing/blob/main/Images/Analysis%20of%20NYC%20Citibike%20Usage%20-%20Overall%20Ride%20Time.png)
+
 - When are the Bikes Being Used the Most: 
 Bikes are mostly being used during work days in the commute rush hours 7-9 am and 5-7pm. On the weekends this is most concentrated during daytime hours.
 - Overall Gender Usage Breakdown:
 We see here that the majority by 2/3rds are male.
+![This is an image](https://github.com/chrisagordon/bikesharing/blob/main/Images/Analysis%20of%20NYC%20Citibike%20Usage%20-%20Gender%20Breakdown.png)
 - Time Usage by Gender:
 None of the genders use the bikes longer than the others
 - Differences in When Bikes are used by Gender
