@@ -1,4 +1,4 @@
-# bikesharing
+# NYC Citibike Analysis
 
 ## 1. OVERVIEW OF THE ANALYSIS
 The task of this challenge was to create data visualization of the CitiBike ride service that is in New York City in order to provide information to decision makers in Des Moines, IA to assess the feasibility of a similar service in their city.
