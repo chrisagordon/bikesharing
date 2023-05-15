@@ -22,6 +22,7 @@ We see here that the majority by 2/3rds are male.
 None of the genders use the bikes longer than the others
 - Differences in When Bikes are used by Gender
 Weekly usage patterns are same regardless of gender
+![This is an image]((https://github.com/chrisagordon/bikesharing/blob/main/Images/Analysis%20of%20NYC%20Citibike%20Usage%20-%20Gender%20Breakdown%20of%20Daily%20Schedule.png))
 - Subscriber Breakdown and Daily Usage
 We see here that Male users are more strongly subscribers than women and they tend to use more consistently. Non-subscriber customer users are the same across all the genders but it is a much smaller user base. NYC residents use the bikes at a much higher rate than tourists.
 - Number of Rides per bike
